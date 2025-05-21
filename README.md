@@ -6,6 +6,7 @@ Se usa una interfaz gráfica para visualizar dichos cambios de la imagen y el co
 ## Requisitos:
 - Python 3.8+
 - Pillow
+- Descargar la imagen aquí cargada
 
 Se instala Pillow con:
   ```bash
